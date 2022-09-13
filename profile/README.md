@@ -7,5 +7,5 @@
 
 ## About Run
 
-Run is a micro framework for building awesome small productive and scalable web apps.
+Run is a nano API framework for building awesome small productive and scalable web apps.
  
